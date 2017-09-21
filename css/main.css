@@ -1,0 +1,60 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+	width: 70%;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 4em;
+	font-weight: 700;
+}
+
+.hide {
+	display: none;
+}
+
+.active {
+	cursor: pointer;
+	cursor: hand;
+	color: blue;
+}
+
+div.local {
+	font-size: 3em;
+	font-weight: 700;
+}
+
+#dayname,
+#weather {
+	font-size: 2em;
+	font-weight: 500;
+}
+
+div.icons {
+	display: inline-block;
+	font-size: 6em;
+	font-weight: 500;
+	color: green;
+	padding-right: 10px;
+	float: left;
+}
+
+.tempunit {
+	display: inline-block;
+	float: left;
+}
+
+#temp {
+	font-size: 4em;
+	font-weight: 500;
+	float: left;
+}
+
+.tunit {
+	font-size: 2em;
+	font-weight: 500;
+	float: left;
+}
