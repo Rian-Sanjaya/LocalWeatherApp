@@ -1,1 +1,1 @@
-A project on freecodecamp using weather api.
+A project on freecodecamp using geolocation api and weather api.
